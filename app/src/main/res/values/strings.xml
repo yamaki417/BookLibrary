@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Book Library</string>
+    <string name="tab_text_1">読んだ本</string>
+    <string name="tab_text_2">読んでいる本</string>
+    <string name="tab_text_3">積読本</string>
+    <string name="tab_text_4">読みたい本</string>
+</resources>
